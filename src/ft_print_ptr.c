@@ -6,12 +6,12 @@
 /*   By: avan-der <avan-der@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2023/02/21 18:20:38 by avan-der      #+#    #+#                 */
-/*   Updated: 2023/05/20 12:42:27 by avan-der      ########   odam.nl         */
+/*   Updated: 2023/05/20 13:45:26 by avan-der      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include "../libft/include/libft.h"
+#include "libft.h"
 
 static	int	ft_ptr_len(uintptr_t num)
 {

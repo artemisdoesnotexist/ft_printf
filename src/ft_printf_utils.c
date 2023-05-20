@@ -6,12 +6,12 @@
 /*   By: avan-der <avan-der@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2022/12/23 19:19:02 by avan-der      #+#    #+#                 */
-/*   Updated: 2023/05/20 12:42:30 by avan-der      ########   odam.nl         */
+/*   Updated: 2023/05/20 13:45:29 by avan-der      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include "../libft/include/libft.h"
+#include "libft.h"
 
 int	print_char(int c)
 {
