@@ -6,11 +6,12 @@
 /*   By: avan-der <avan-der@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2022/12/04 15:12:16 by avan-der      #+#    #+#                 */
-/*   Updated: 2023/03/03 16:38:56 by avan-der      ########   odam.nl         */
+/*   Updated: 2023/05/20 13:02:14 by avan-der      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../include/ft_printf.h"
+#include "ft_printf.h"
+#include "libft.h"
 
 int	print_number_base(long long int n, const char *base)
 {
